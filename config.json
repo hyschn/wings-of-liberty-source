@@ -2,7 +2,8 @@
     "home": {
         "top": { "topic": "about-this-site", "article": "起源" },
         "blogs": [
-            { "topic": "战略运筹", "article": "作战篇" }, { "topic": "作战指挥", "article": "兵势篇" }
+            { "topic": "linux", "article": "commend" },
+            { "topic": "neo4j", "article": "introduction" }
         ]
     },
     "blog": [
